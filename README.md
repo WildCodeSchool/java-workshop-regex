@@ -1,9 +1,9 @@
 # ATELIER REGEX
 
-Fait un fork de ce repository sur ton GitHub :
-[https://github.com/bastienwcs/atelier-regex](https://github.com/bastienwcs/atelier-regex)
+Fait un fork de ce repository sur ton compte GitHub :
+[https://github.com/WildCodeSchool/java-workshop-regex](https://github.com/WildCodeSchool/java-workshop-regex)
 
-Dans `Main.java`, ajoute les expressions rationnelles permettant de vérifier les cas suivants :
+Dans le `Main.java` de ton fork, ajoute les expressions rationnelles permettant de vérifier les cas suivants :
 
 ### Validation des noms et prénoms : 
 
